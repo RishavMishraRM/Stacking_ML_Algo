@@ -4,4 +4,4 @@
 ## &&
 ## Stacking Regression
 
-<img src=Stacking_ML_Algo>
+<img src='Stacking_ML_Algo.png'>
